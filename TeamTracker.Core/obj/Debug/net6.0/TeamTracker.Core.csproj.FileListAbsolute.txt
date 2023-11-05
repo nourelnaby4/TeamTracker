@@ -1,0 +1,11 @@
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\bin\Debug\net6.0\TeamTracker.Core.deps.json
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\bin\Debug\net6.0\TeamTracker.Core.dll
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\bin\Debug\net6.0\TeamTracker.Core.pdb
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\TeamTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\TeamTracker.Core.AssemblyInfoInputs.cache
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\TeamTracker.Core.AssemblyInfo.cs
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\TeamTracker.Core.csproj.CoreCompileInputs.cache
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\TeamTracker.Core.dll
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\refint\TeamTracker.Core.dll
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\TeamTracker.Core.pdb
+F:\Advanced .Net6\TeamTracker\TeamTracker.Core\obj\Debug\net6.0\ref\TeamTracker.Core.dll

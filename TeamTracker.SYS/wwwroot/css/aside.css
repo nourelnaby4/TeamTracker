@@ -1,0 +1,16 @@
+﻿.sidebar {
+    min-height: 90vh;
+    background-color: var(--main-color);
+   
+}
+.nav-item{
+    padding:5px;
+    margin:10px;
+}
+.nav-item:hover {
+    background-color: var(--light-color);
+}
+
+.link:hover {
+    color: var(--main-color);
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Expanded:wght@300&display=swap');
+
+
+
+:root {
+    --main-color: #4e73df;
+    --light-color: #858796;
+    --font-family: 'Encode Sans Semi Expanded','sans-serif';
+    --rating-color: #ffc908;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 60px;
+    font-family: var(--font-family);
+}
+
+
+.rating-colr {
+    color: var(--rating-color);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
