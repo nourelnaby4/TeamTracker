@@ -12,3 +12,6 @@ F:\Advanced .Net6\TeamTracker\TeamTracker.EF\obj\Debug\net6.0\refint\TeamTracker
 F:\Advanced .Net6\TeamTracker\TeamTracker.EF\obj\Debug\net6.0\TeamTracker.EF.pdb
 F:\Advanced .Net6\TeamTracker\TeamTracker.EF\obj\Debug\net6.0\TeamTracker.EF.genruntimeconfig.cache
 F:\Advanced .Net6\TeamTracker\TeamTracker.EF\obj\Debug\net6.0\ref\TeamTracker.EF.dll
+F:\Advanced .Net6\TeamTracker\TeamTracker.EF\bin\Debug\net6.0\TeamTracker.Core.dll
+F:\Advanced .Net6\TeamTracker\TeamTracker.EF\bin\Debug\net6.0\TeamTracker.Core.pdb
+F:\Advanced .Net6\TeamTracker\TeamTracker.EF\obj\Debug\net6.0\TeamTracker.EF.csproj.CopyComplete

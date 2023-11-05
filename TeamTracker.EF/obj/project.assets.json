@@ -864,6 +864,16 @@
             "rid": "win"
           }
         }
+      },
+      "TeamTracker.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TeamTracker.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeamTracker.Core.dll": {}
+        }
       }
     }
   },
@@ -2176,6 +2186,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "TeamTracker.Core/1.0.0": {
+      "type": "project",
+      "path": "../TeamTracker.Core/TeamTracker.Core.csproj",
+      "msbuildProject": "../TeamTracker.Core/TeamTracker.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2183,7 +2198,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.24",
       "Microsoft.EntityFrameworkCore >= 6.0.24",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.24",
-      "Microsoft.EntityFrameworkCore.Tools >= 6.0.24"
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.24",
+      "TeamTracker.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2218,7 +2234,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Advanced .Net6\\TeamTracker\\TeamTracker.Core\\TeamTracker.Core.csproj": {
+              "projectPath": "F:\\Advanced .Net6\\TeamTracker\\TeamTracker.Core\\TeamTracker.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

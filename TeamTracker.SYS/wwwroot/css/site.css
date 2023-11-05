@@ -26,6 +26,7 @@ html {
 body {
     margin-bottom: 60px;
     font-family: var(--font-family);
+    overflow-x: hidden;
 }
 
 
@@ -36,3 +37,16 @@ body {
 .cursor-pointer {
     cursor: pointer;
 }
+/*
+
+==================================================
+====Footer============================*/
+.copyright {
+    font-size: 0.9rem;
+    padding-top: 12px;
+    height: 70px;
+    text-align: center;
+    color: white;
+    background-color: var(--light-color);
+}
+
